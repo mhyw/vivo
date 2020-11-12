@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'mhyw'; 
+const BotName = 'mhyw BOT'; 
 const instagram = 'https://instagram.com/mhyw_617'; 
 const telegram = 'ga ada'; 
 const kapanbotaktif = 'KALO mhyw GA BADMOOD'; 
